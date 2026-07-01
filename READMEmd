@@ -197,7 +197,7 @@ flowchart LR
 
 人机共享同一个"可见操作面"（浏览器画面）
 
-https://images.ctfassets.net/kftzwdyauwt9/7vBVya3XA6w2Sbq74ENNIi/b65385435d060532d89225d937942e77/Agent__5_.png?fm=webp&q=90&w=3840
+![](https://images.ctfassets.net/kftzwdyauwt9/7vBVya3XA6w2Sbq74ENNIi/b65385435d060532d89225d937942e77/Agent__5_.png?fm=webp&q=90&w=3840)
 
 2. 意图可视化
 浏览器画面上会叠加状态提示，告诉用户 agent 正在做什么、为什么——比如画面显示正在浏览 LinkedIn，同时有文字气泡说明"已经找到 7 个候选人，正在加入表格"。这种"每一步操作 + 自然语言旁白同步展示"是它意图可视化的核心手法，而不是单纯靠鼠标指针移动/高亮这种纯视觉隐喻（虽然底层操作确实是模拟点击、输入等动作）。
